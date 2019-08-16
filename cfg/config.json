@@ -1,0 +1,8 @@
+{
+  "Timeout" : 1,
+  "Port": ":8080",
+  "DBUser": "root",
+  "DBPassword": "qwer",
+  "DBName": "statistics",
+  "FileName": "sites.txt"
+}
